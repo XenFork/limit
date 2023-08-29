@@ -28,3 +28,14 @@ replay_pid*
 Install
 Instances/limit/mods
 Downloads
+
+**/logs/
+
+**/saves/
+
+**/local/
+
+**/usernamecache.json
+**/usercache.json
+
+**/.vscode/
